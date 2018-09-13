@@ -18,7 +18,8 @@ This documentation also includes some personal comments and things I have experi
 
 ## Notes
 
-- [Session #1](/notes/session-1-introduction-to-liferay-front-end.md): Introduction to Liferay Front-end 
+- [Session #1: Introduction to Liferay Front-end](/notes/session-1-introduction-to-liferay-front-end.md)
+- [Session #2: Liferay UI Frameworks](/notes/session-2-liferay-ui-frameworks.md)
 
 
 ## Who am I?

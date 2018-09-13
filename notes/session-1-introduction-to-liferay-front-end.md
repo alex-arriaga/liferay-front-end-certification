@@ -1,4 +1,4 @@
-# Front-end Development in Liferay: Session #1
+# Session #1. Introduction to Front-end in Liferay
 
 ## Introduction
 
