@@ -20,13 +20,16 @@ This documentation also includes some personal comments and things I have experi
 
 - [Session #1: Introduction to Liferay Front-end](/notes/session-1-introduction-to-liferay-front-end.md)
 - [Session #2: Liferay UI Frameworks](/notes/session-2-liferay-ui-frameworks.md)
+- [Session #3: JavaScript](/notes/session-3-javascript.md)
+- [Session #4: Freemarker](/notes/session-4-freemarker.md)
+- [Session #5: Theme Generation](/notes/session-5-theme-generation.md)
 
 
 ## Who am I?
 My name is [Alex Arriaga](http://www.alex-arriaga.com/), I am person who enjoys **learning, practicing and helping others to succeed**.
 I have been implementing websites, enterprise portals and systems for about nine years. You can read more [about me in my personal blog](http://www.alex-arriaga.com/about-me/).
 
-Some friends and I have this **community-driven company called [Webtraining](https://webtraining.zone/nosotros)** in which we share knowledge about
+Some friends and I have this **community-oriented company called [Webtraining](https://webtraining.zone/nosotros)** in which we share knowledge about
 web technologies. You can follow us on:
 
 - [Twitter: @webtrainingzone](https://twitter.com/webtrainingzone)
