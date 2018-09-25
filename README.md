@@ -24,6 +24,8 @@ This documentation also includes some personal comments and things I have experi
 - [Session #4: Freemarker](/notes/session-4-freemarker.md)
 - [Session #5: Theme Generation](/notes/session-5-theme-generation.md)
 - [Session #6: Custom Styling](/notes/session-6-custom-styling.md)
+- [Session #7: Custom JavaScript](/notes/session-7-custom-javascript.md)
+- [Session #8: Configuring the Theme](/notes/session-8-configuring-theme.md)
 
 ## Who am I?
 My name is [Alex Arriaga](http://www.alex-arriaga.com/), I am person who enjoys **learning, practicing and helping others to succeed**.
