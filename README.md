@@ -1,6 +1,6 @@
 # Front-end Development in Liferay
 
-This are just my personal notes for the [Liferay Front-end Certification](https://www.liferay.com/services/certification/dxp/front-end-developer) program,
+These are just my personal notes for the [Liferay Front-end Certification](https://www.liferay.com/services/certification/dxp/front-end-developer) program,
 officially known as [Liferay DXP Certified Professional Front-End Developer](https://www.liferay.com/services/certification/dxp/front-end-developer).
 
 ## What is this certification about?
